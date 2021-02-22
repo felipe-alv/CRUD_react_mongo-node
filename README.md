@@ -1,4 +1,4 @@
-## CRUD  com Reactjs, nodejs e mongodb
+## :collision:CRUD  com Reactjs, nodejs e mongodb:collision:
 
 ## Objetivos
 
@@ -6,11 +6,11 @@
 
 ## :computer:Tecnologias Utilizadas:computer:
 
-### Frontend
+### :bullettrain_front:Frontend
 - [ ] ReactJS
 - [ ] CSS
 
-### :arrow_backward:Backend:arrow_backward:
+### :arrow_backward:Backend
 - [ ] NodeJS
 - [ ] Express
 - [ ] MongoDB
