@@ -2,7 +2,7 @@
 
 ## Objetivos
 
-### O objetivo do projeto é contruir um CRUD totalmente do zero com React no front e node e mongo no back
+### :rocket:O objetivo do projeto é contruir um CRUD totalmente do zero com React no front e node e mongo no back
 
 ## :computer:Tecnologias Utilizadas:computer:
 
