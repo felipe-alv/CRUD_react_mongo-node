@@ -4,7 +4,7 @@
 
 ## O objetivo do projeto é contruir um CRUD totalmente do zero com React no front e node e mongo no back
 
-# Tecnologias Utilizadas
+# :computer:Tecnologias Utilizadas:computer:
 
 ## Frontend
 - [ ] ReactJS
