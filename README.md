@@ -1,8 +1,8 @@
 ## :collision:CRUD  com Reactjs, nodejs e mongodb:collision:
 
-## Objetivos
+## :rocket:Objetivos
 
-### :rocket:O objetivo do projeto é contruir um CRUD totalmente do zero com React no front e node e mongo no back
+### O objetivo do projeto é contruir um CRUD totalmente do zero com React no front e node e mongo no back
 
 ## :computer:Tecnologias Utilizadas:computer:
 
