@@ -1,16 +1,16 @@
-# CRUD  com Reactjs, nodejs e mongodb
+## CRUD  com Reactjs, nodejs e mongodb
 
-# Objetivos
+## Objetivos
 
-## O objetivo do projeto é contruir um CRUD totalmente do zero com React no front e node e mongo no back
+### O objetivo do projeto é contruir um CRUD totalmente do zero com React no front e node e mongo no back
 
-# :computer:Tecnologias Utilizadas:computer:
+## :computer:Tecnologias Utilizadas:computer:
 
-## Frontend
+### Frontend
 - [ ] ReactJS
 - [ ] CSS
 
-## Backend
+### Backend
 - [ ] NodeJS
 - [ ] Express
 - [ ] MongoDB
